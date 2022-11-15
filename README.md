@@ -2,7 +2,16 @@
 
 ## Table of contents
 
-- [About the project](#about-the-project)
+- [💻 About the project](#-about-the-project)
+- [⚙️ Features](#️-features)
+- [🔧 How to use](#-how-to-use)
+  - [Pre requisites](#pre-requisites)
+  - [Cloning the source code](#cloning-the-source-code)
+  - [Building the application](#building-the-application)
+  - [Consuming the features](#consuming-the-features)
+    - [Reading a spreadsheet data and printing it](#reading-a-spreadsheet-data-and-printing-it)
+- [⚒️ Technologies](#️-technologies)
+- [📝 License](#-license)
 
 ## 💻 About the project
 
